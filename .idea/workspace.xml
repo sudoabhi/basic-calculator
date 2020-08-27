@@ -49,7 +49,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gatMRxA58SDZjiHXVVKlRMcziN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -180,6 +185,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="510" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1598461907685" />
+    <state x="293" y="10" key="CommitChangelistDialog2" timestamp="1598530596121">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="293" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598530596121" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1598380048027">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
